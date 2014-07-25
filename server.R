@@ -1,3 +1,4 @@
+#Coursera Develop Data Products July 2014 Project
 if (!require(quantmod)) {
   stop("This app requires the quantmod package. To install it, run 'install.packages(\"quantmod\")'.\n")
 }

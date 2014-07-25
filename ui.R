@@ -1,3 +1,4 @@
+#Coursera Develop Data Products July 2014 Project
 shinyUI(pageWithSidebar(
   headerPanel("Technical Analysis of Stocks"),
   
