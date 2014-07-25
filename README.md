@@ -18,4 +18,4 @@ User Guide
 	Defaulf is Days (each data point represents the price information on a daily basis)
 6. Select if you want the data series displayed on a log scale (which helps to see trends better).
 	Default scale is linear.
-7. Once you are happy with previous selections, hit Go! to refresh the chart(s)
+7. Once you are happy with previous selections, hit Go! to refresh the chart(s).
